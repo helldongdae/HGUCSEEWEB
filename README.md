@@ -1,2 +1,11 @@
-# HGUCSEEWEB
-HGU CSEE WEB
+익명 게시판 기능	LAMP
+들어올 때 인증	Node Js
+프로그래밍 문제 풀기	Android / IOS
+과목별 게시판	MONGO DB
+포인트 제도	GIT
+동영상 강의 – 유튜브 연동	
+취업 정보	
+웹게임	
+깃 연동 공유 게시판	
+프로그래밍 대회 게시판	
+
